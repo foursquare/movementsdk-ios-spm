@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Movement",
-            url: "",
-            checksum: "373226a0433afd8a0d6feef14b860be6257604ac731f9d15d3859a2130b62d25"
+            url: "https://",
+            checksum: ""
         )
     ]
 )
