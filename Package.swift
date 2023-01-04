@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Movement",
-            url: "https://",
-            checksum: ""
+            url: "https://foursquare.jfrog.io/foursquare/movementsdk-ios-beta/v4.0.0/Movement.xcframework.zip",
+            checksum: "373226a0433afd8a0d6feef14b860be6257604ac731f9d15d3859a2130b62d25"
         )
     ]
 )
