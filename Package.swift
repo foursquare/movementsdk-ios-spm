@@ -12,11 +12,11 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "Movement SDK",
-            targets: ["Movement"]),
+            targets: ["MovementSdk"]),
     ],
     targets: [
         .binaryTarget(
-            name: "Movement",
+            name: "MovementSdk",
             url: "https://",
             checksum: ""
         )
