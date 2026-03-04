@@ -19,8 +19,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "MovementSdk",
-            url: "https://foursquare.jfrog.io/foursquare/movementsdk-ios-beta/v4.0.6-beta4/MovementSdk.xcframework.zip",
-            checksum: "f1630e09e402721b3d7f9321aa6c5880d4abd727b145044effc41089c701eb89"
+            url: "https://foursquare.jfrog.io/foursquare/movementsdk-ios/v4.0.6/MovementSdk.xcframework.zip",
+            checksum: "d77619e463b81f8a94f645b9cd2c781a535eb6cfe2ebb800b2a81047c538e896"
         )
     ]
 )
